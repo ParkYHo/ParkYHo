@@ -1,11 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Park+Yong+Ho&fontSize=90)
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkYHo&theme=dark&show_icons=true)
-
-
-
 <h3 align="center">Tech & Tools</h3> 
 <p align="center"> Techs and Tools that I've used at least once </p>
 <p align="center">
@@ -41,3 +36,5 @@
 <td><img src = "https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=jetbrains&logoColor=white"/></td>
 </table>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkYHo&theme=dark&show_icons=true)
